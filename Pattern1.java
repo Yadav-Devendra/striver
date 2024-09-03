@@ -1,4 +1,4 @@
-public class Paattern1 {
+public class Pattern1 {
 
     static void pattern1(int n){
         for (int i = 0; i < n; i++) {
